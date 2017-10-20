@@ -1,3 +1,3 @@
 # hello-world
-My first repository
-I've just started learning programming.
+My first repository /n
+I've just started learning programming. Namely, Python.
